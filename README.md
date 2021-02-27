@@ -1,3 +1,8 @@
+# Other useful links
+https://www.youtube.com/watch?v=JoyzxjgVlQw&list=PLzhCMhsemh4jx2zoLRXH_sHD8OgIkXBYt&index=1
+https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d 
+
+
 ![](https://github.com/markusvoelter/mpsintrocourse/blob/master/stuff/pres.png)
 
 A slightly advanced introduction to MPS: two languages, a generator, an interpreter, language composition and non-textual notations. Check out this [Youtube playlist](https://www.youtube.com/playlist?list=PLrylAcnrHsvhnmO87Ws7B8h8yrvU2sFMb) to understand the code. And explore the [commits](https://github.com/markusvoelter/mpsintrocourse/commits/master) and [branches](https://github.com/markusvoelter/mpsintrocourse/branches) for intermediate states.
